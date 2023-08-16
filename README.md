@@ -42,7 +42,7 @@ For the simple script:
 
 ## Note
 
-Ensure you have a working camera and that the necessary permissions are granted to access the camera feed. Adjust the cap = cv2.VideoCapture(1) parameter depending on which camera you want to use. Modify the yellow variable or pass other BGR color values to detect different colors.
+Ensure you have a working camera and that the necessary permissions are granted to access the camera feed. Adjust the `cap = cv2.VideoCapture(1)` parameter depending on which camera you want to use. Modify the yellow variable or pass other BGR color values to detect different colors.
 
 ---
 
